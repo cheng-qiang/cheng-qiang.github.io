@@ -39,6 +39,3 @@ $(function(){
 	    newOn: 300  /* 定义密集程度，数字越小越密集 */
     });
 });
-————————————————
-版权声明：本文为CSDN博主「YuHang·Lin」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/marvine/article/details/89816846
